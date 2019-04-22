@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springone2017-demo.iml" filepath="$PROJECT_DIR$/springone2017-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springone2017-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springone2017-demo_main.iml" group="springone2017-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springone2017-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springone2017-demo_test.iml" group="springone2017-demo" />
+    </modules>
+  </component>
+</project>
